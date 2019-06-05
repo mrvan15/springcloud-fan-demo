@@ -12,6 +12,7 @@
 	<artifactId>spring-cloud-config-server-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-cloud-config-server-demo</name>
+	<packaging>jar</packaging>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
